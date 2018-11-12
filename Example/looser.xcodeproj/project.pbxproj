@@ -30,7 +30,7 @@
 /* Begin PBXFileReference section */
 		1FE006AE84EBBE4745CDC8F2 /* Pods_looser_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_looser_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A7B8BF41F41176FC19C7C00 /* Pods-looser_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-looser_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-looser_Example/Pods-looser_Example.release.xcconfig"; sourceTree = "<group>"; };
-		4B93680BE339924BBF2DD8EF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4B93680BE339924BBF2DD8EF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* looser_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = looser_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -45,8 +45,8 @@
 		AD295691F6459E9E87D41265 /* Pods-looser_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-looser_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-looser_Tests/Pods-looser_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D4AEB52D904B08279FEC855D /* Pods_looser_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_looser_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8368F9CC0490AC086470961 /* Pods-looser_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-looser_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-looser_Example/Pods-looser_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		F16A5C99A23ABDE78394381F /* looser.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = looser.podspec; path = ../looser.podspec; sourceTree = "<group>"; };
-		F7DD5D286EF2381272957A34 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F16A5C99A23ABDE78394381F /* looser.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = looser.podspec; path = ../looser.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		F7DD5D286EF2381272957A34 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
