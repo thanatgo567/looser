@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'looser_Example' do
+  pod 'looser', :path => '../'
+
+  target 'looser_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
