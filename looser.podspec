@@ -25,12 +25,12 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'thanatgo123@gmail.com' => 'thanaponat123@gmail.com' }
-  s.source           = { :git => 'https://thanatgo567:Ball0834267271@github.com/thanatgo567/looser.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://thanatgo567:Ball0834267271@github.com/thanatgo567/looser.git',  :commit => "b31fad8a6498b4c153242c0cc414e739a4b5d17f"}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'looser/Classes/**/*'
+  s.source_files = 'Classes/*.{h,m,swift}'
   
   # s.resource_bundles = {
   #   'looser' => ['looser/Assets/*.png']
